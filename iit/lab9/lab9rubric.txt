@@ -1,0 +1,8 @@
+Dynamic Website
+
+Basic Functionality - 5
+   Website performs as described in the instructions, code validates and is well-formed
+Documentation - 3
+   Code has comments where necessary to explain certain features/decisions.  Readme file is included
+Creativity - 1
+   Website has a personal flair. (ie, jQueryUI elements included, nice imagery, or extra detail in the menu, etc...)

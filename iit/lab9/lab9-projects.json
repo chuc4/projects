@@ -1,0 +1,34 @@
+{
+    "menuItem": [
+        {
+            "menuName": "Lab 2",
+            "menuDesc": "Resume",
+            "menuURL": "projects/chuc4-CatherineChu-resume.html"
+        },
+        {
+            "menuName": "Lab 3",
+            "menuDesc": "Website",
+            "menuURL": "projects/mysite_updated/index.html"
+        },
+        {
+            "menuName": "Lab 4",
+            "menuDesc": "XML(Atom)",
+            "menuURL": "projects/atom-chuc4.xml"
+        },
+        {
+            "menuName": "Lab 4",
+            "menuDesc": "XML(RSS)",
+            "menuURL": "projects/rss-chuc4.xml"
+        },
+        {
+            "menuName": "Lab 5",
+            "menuDesc": "Javascript",
+            "menuURL": "projects/lab5.html"
+        },
+        {
+            "menuName": "Lab 6",
+            "menuDesc": "jQuery",
+            "menuURL": "projects/lab6.html"
+        }
+    ]
+}

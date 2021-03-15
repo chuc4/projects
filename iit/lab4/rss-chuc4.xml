@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+	<title>Lab 4</title>
+	<description>Introduction to ITWS - RSS Feed</description>
+	<link>https://afsws.rpi.edu/AFS/home/29/chuc4/public_html/iit/lab3/mysite/pages/projects.html</link>
+	<lastBuildDate>Tue, 12 Oct 2010 00:01:00 +0000 </lastBuildDate>
+	<pubDate>Tue, 12 Oct 2010 00:01:00 +0000 </pubDate>
+
+	<item>
+		<title>This Spinach Potato Pie Feels Like A Hug</title>
+		<description>A critic tries a new dish called the Spinach Potato Pie. He
+		loves the homey feeling the dish brings and recommends it to others.</description>
+		<link>https://www.nytimes.com/2020/09/21/dining/spinach-pie-recipe.html</link>
+		<guid>https://www.nytimes.com/item1</guid>
+	  <pubDate>Mon, 21 Sep 2020 00:45:00 EST </pubDate>
+	</item>
+
+	<item>
+		<title>Rice Is Both Culture and Comfort at FieldTrip</title>
+		<description>The article explains the journey behind the restaurant FieldTrip, which opened
+		in 2017 in Harlem, New York.</description>
+		<link>https://www.newyorker.com/magazine/2020/09/28/rice-is-both-culture-and-comfort-at-fieldtrip</link>
+		<guid>https://www.newyorker.com/item2</guid>
+		<pubDate>Fri, 18 Sep 2020 00:45:00 EST </pubDate>
+	</item>
+
+	<item>
+		<title>In Times of Uncertainty, I Turn to the Cozy Instagram World of Sweet Potatoes</title>
+		<description>A woman explores the potential of sweet potatoes and discovers many recipes to create
+		delicious sweet potato dishes, inspired from Japanese culture.</description>
+		<link>https://www.eater.com/21497577/the-comforting-world-of-japanese-sweet-potato-instagram</link>
+		<guid>https://www.eater.com/item3</guid>
+		<pubDate>Fri, 02 Oct 2020 00:45:00 EST </pubDate>
+	</item>
+
+	<item>
+		<title>The Kimchi-Cheddar Croissant I Can't Stop Dreaming About</title>
+		<description>A food blogger travels to Dublin and tried a local bakery's croissant, specifically the Kimchi
+		Cheddar Croissant. She then explores several other different types pasteries.</description>
+		<link>https://food52.com/blog/25103-sceal-bakery-review</link>
+		<guid>https://food52.com/blog/item4</guid>
+		<pubDate>Tue, 22 Sep 2020 00:45:00 EST </pubDate>
+	</item>
+
+	<item>
+		<title>It's Pretty Easy To Level Up Your Coffee Game — Here's How</title>
+		<description>The article will show you how to improve the quality of homemade coffee.</description>
+		<link>https://www.npr.org/2020/07/24/895316740/its-pretty-easy-to-level-up-your-coffee-game-here-s-how</link>
+		<guid>https://www.npr.org/item5</guid>
+		<pubDate>Tue, 28 Jul 2020 00:45:00 EST </pubDate>
+	</item>
+</channel>
+</rss>

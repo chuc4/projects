@@ -1,0 +1,22 @@
+<!-- Lab 5 - 00 template
+
+Validity        :   / 2.0 : 
+Indentation     :   / 2.0 : 
+Completeness    :   / 6.0 : 
+
+.5 Follow instructions - add name BELOW <h1> 
+.5 User is forced to enter comments. 
+ 1 Crime 4 -> set bg color correctly to #fee
+ 1 force non-blank fields
+.5 nickname button correct
+.5 save form message
+ 1 clear comment field only
+ 1 Crime 1 -> add for attribute to form tag 
+ 
+ +1 only if set focus
+ -1 only if RCS authorities are wrong
+ 
+/10
+
+
+-->

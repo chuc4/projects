@@ -1,0 +1,58 @@
+ <feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>Example Feed</title>
+	<subtitle>A subtitle.</subtitle>
+	<link href="http://example.org/feed/" rel="self" />
+	<link href="http://example.org/" />
+	<id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
+	<updated>2003-12-13T18:30:02Z</updated>
+	<author>
+		<name>Catherine Chu</name>
+		<email>chuc4@rpi.edu</email>
+	</author>
+
+	<entry>
+		<title>This Spinach Potato Pie Feels Like A Hug</title>
+		<link href="https://www.nytimes.com/2020/09/21/dining/spinach-pie-recipe.html" />
+		<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+		<updated>2020-09-21T18:30:02Z</updated>
+		<summary>A critic tries a new dish called the Spinach Potato Pie. He
+		loves the homey feeling the dish brings and recommends it to others.</summary>
+	</entry>
+
+  <entry>
+		<title>Rice Is Both Culture and Comfort at FieldTrip</title>
+		<link href="https://www.newyorker.com/magazine/2020/09/28/rice-is-both-culture-and-comfort-at-fieldtrip" />
+		<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+		<updated>2020-09-18T18:30:02Z</updated>
+		<summary>The article explains the journey behind the restaurant FieldTrip, which opened
+		in 2017 in Harlem, New York.</summary>
+	</entry>
+
+  <entry>
+    <title>RIn Times of Uncertainty, I Turn to the Cozy Instagram World of Sweet Potatoes</title>
+    <link href="https://www.eater.com/21497577/the-comforting-world-of-japanese-sweet-potato-instagram" />
+    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+    <updated>2020-10-02T18:30:02Z</updated>
+    <summary>A woman explores the potential of sweet potatoes and discovers many recipes to create
+		delicious sweet potato dishes, inspired from Japanese culture.</summary>
+  </entry>
+
+  <entry>
+		<title>The Kimchi-Cheddar Croissant I Can't Stop Dreaming About</title>
+		<link href="https://food52.com/blog/25103-sceal-bakery-review" />
+		<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+		<updated>2020-09-22T18:30:02Z</updated>
+		<summary>A food blogger travels to Dublin and tried a local bakery's croissant, specifically the Kimchi
+		Cheddar Croissant. She then explores several other different types pasteries.</summary>
+	</entry>
+
+  <entry>
+		<title>It's Pretty Easy To Level Up Your Coffee Game — Here's How</title>
+		<link href="https://www.npr.org/2020/07/24/895316740/its-pretty-easy-to-level-up-your-coffee-game-here-s-how" />
+		<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+		<updated>2020-07-28T18:30:02Z</updated>
+		<summary>The article will show you how to improve the quality of homemade coffee.</summary>
+	</entry>
+
+</feed>

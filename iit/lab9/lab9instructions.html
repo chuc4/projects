@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+   <head>
+      <meta name="description" content="">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>ITWS1100 - Lab 9</title>
+      <style type="text/css">
+
+/*I have included the css here for convenience only*/
+
+         body {
+            font-family: helvetica;
+            width: 600px;
+         }
+         .noteThis {
+            color:red;
+            font-size:110%;
+         }
+         .minor {
+            line-height: 90%!important;
+            font-size:90%!important;
+            border-style: solid;
+            border-color: red;
+            padding:5px;
+            text-align: left;
+            width: 80%;
+         }
+         .minor strong {
+            font-size: 105%;
+         }
+      </style>
+   </head>
+   <body>
+      <h1>Lab 9 - JavaScript, JSON and AJAX</h1>
+      <p>In lab 3 we made a website which consisted of a homepage (index.html) and a projects page.
+        Since then we have been adding projects to that page for each lab.</p>
+      <p>Well, here we go again.   We are going to modify the projects page we created in that lab again, but this time in a different way.</p>
+
+      In this lab,
+      <ul>
+         <li>You are to make a JSON file with a list of your project menu items<br/>
+             <p class="minor">I have provided a <a href="lab9jsontemplate.json"><strong>JSON template</strong></a>
+               to get you started.<br/><br/>
+             I have also provided <a href="Oldlab7/lab7 solved.html"><strong>sample</strong></a> of Lab 7 from a
+             previous year as an example of how to use AJAX to read a file</p>
+         </li>
+         <li>The file should contain the information necessary for you to be able to build the appropriate HTML for your projects page.</li>
+         <li>You are to write some JavaScript to read that file and create your projects menu dynamically for your website.
+             <p class="minor">Your javascript file <strong><em>must</em></strong> be external to your HTML file.</p>
+         </li>
+         <li>when the projects page is loaded, it should read the json file and build your site dynamically</li>
+      </ul>
+      <div class="minor">
+      <p class="noteThis">In order to test this file with Chrome when the website is loaded on your PC/Mac,
+        you will need to run this from your localhost by starting your webserver and making sure the content is located on your local webserver (www/iit, htdocs/iit, etc)</p>
+      <p>The reason for this has to do with the Same Origin Policy protection discused in class</p>
+      <p>Also note that if you are using Brackets or VSCode Live Server, you may be able to test this in the integrated browser from them without running it from your local webserver.</p>
+      </div>
+      <!-- <p>While it may work with the command arguments discussed previously, you will not need these flags when running your site from your local AMP or RCS deployment.</p> -->
+      <p class="noteThis">When you are done, 
+         <ul>
+            <li>Push your updated iit folder to your GitHub repo</li>
+            <li>Zip your iit directory and submit it to LMS</li>
+            <li>Do <em>not</em> forget your README file, and make sure to include you GitHub and Discord userIDs/Handles</li>
+            <li>You don&apos;t need to post this lab (or lab 10) to RCS.  This one should work, but lab 10 will not.</li>
+         </ul>
+      </p>
+      <p>You will be graded according to the following criteria:
+         <a href="lab9rubric.txt">Lab 9 Rubric</a>
+      </p>
+      <p>NOTE: Going forward through the end of this semester and forward you will be able to simply add records into the JSON file and have your menu be updated accordingly without have to again edit your projects page.
+      </p>
+
+
+
+    </body>
+</html>
